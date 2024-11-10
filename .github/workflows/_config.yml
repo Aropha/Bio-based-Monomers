@@ -1,0 +1,10 @@
+# Disable 'Edit this page' links and footer content
+github:
+    edit_link: false
+  
+  footer:
+    content: ''
+  
+  # If the theme uses repository information to generate the message, ensure these are unset or empty
+  repository: ''
+  
