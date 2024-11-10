@@ -1,5 +1,4 @@
-# Aropha: Pioneering Polymer Informatics
+# Aropha: Leading the Frontier of Polymer Informatics
+Aropha is positioning itself as a leader in polymer informatics by driving innovation in data integration and curation for polymer research. We have expertly incorporated the [HELM repository](https://github.com/PistoiaHELM/HELMMonomerSets)—a rigorously curated database of bio-based polymers—alongside Aropha’s own extensive library of monomer units, meticulously chosen for their significance in polymer synthesis. This unified resource offers researchers and material scientists a comprehensive foundation for advanced polymer design and discovery, enhancing both the efficiency and accuracy of polymer informatics.
 
-Aropha is aiming at becoming the forefront of polymer informatics through innovative integration and curation of polymer data. We have seamlessly integrated the [HELM repository](https://github.com/PistoiaHELM/HELMMonomerSets)—a highly curated database of bio-based polymers—with our own curated library of monomer units, specifically selected for their prevalent use in polymer development. This combined resource serves as a powerful tool for researchers and developers in material science. This database offers a comprehensive reference for monomer units used in innovative polymer design and discovery.
-
-Please visit [Monomers](https://aropha.github.io/Bio-based-Monomers/) tab for a list of selected bio-based monomers.
+For a curated list of bio-based monomers, please explore the [Monomers](https://aropha.github.io/Bio-based-Monomers/) tab.
