@@ -1,6 +1,14 @@
 # GitHub Actions workflow for building and deploying a Jekyll site to GitHub Pages
 name: Deploy Jekyll Site to GitHub Pages
+# Disable 'Edit this page' links and footer content
+github:
+  edit_link: false
 
+footer:
+  content: ''
+
+# If the theme uses repository information to generate the message, ensure these are unset or empty
+repository: ''
 on:
   # Trigger the workflow on push to the default branch (update 'main' if your default branch is different)
   push:
