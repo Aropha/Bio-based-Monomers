@@ -25,17 +25,37 @@
             background-color: #f2f2f2;
             text-transform: capitalize;
         }
-        /* Smaller columns for Source and Monomer Type */
-        .col-source, .col-monomer-type {
-            width: 8%; /* Adjusted to make columns smaller */
+        /* Set widths for columns */
+        .col-source {
+            width: 5%; /* Adjusted to make columns smaller */
+            font-size: 0.8em; /* Smaller font size */
+        }
+        /* Set widths for columns */
+        .col-monomer-type {
+            width: 5%; /* Adjusted to make columns smaller */
+            font-size: 0.8em; /* Smaller font size */
         }
         /* Wider Smiles Wild Cards column */
         .col-smiles-wc {
             width: 20%; /* Increased width */
         }
         /* Adjust other columns to share remaining space */
-        .col-structure, .col-inchikey, .col-name, .col-iupac, .col-pubchem {
+        .col-inchikey{
+            width: 9%; /* Adjusted widths to fit table */
+        }
+        td.col-inchikey{
+            font-size: 0.6em; /* Smaller font size */
+        }
+        /* Adjust other columns to share remaining space */
+        .col-structure {
             width: 13%; /* Adjusted widths to fit table */
+        }
+        /* Adjust other columns to share remaining space */
+        .col-name, .col-iupac, .col-pubchem {
+            width: 10%; /* Adjusted widths to fit table */
+        }
+        td.col-structure, td.col-name, td.col-iupac, td.col-pubchem {
+            font-size: 0.9em; /* Smaller font size */
         }
     </style>
 </head>
