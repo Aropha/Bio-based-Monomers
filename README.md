@@ -1,8 +1,8 @@
 # Aropha: Leading the Frontier of Polymer Informatics
 
-Aropha is positioning itself as a leader in polymer informatics by driving innovation in data integration and curation for polymer research and science. We have expertly incorporated the [HELM repository](https://github.com/PistoiaHELM/HELMMonomerSets)—a rigorously curated database of bio-based polymers—alongside Aropha’s own extensive library of commonly used monomer units in bio-based polymer synthesis. This unified resource provides researchers and material scientists with a comprehensive foundation for in-silico polymer design, enabling the exploration and optimization of polymer structures for biodegradation properties. Aropha is empowering a new era of data-driven polymer informatics focused on accelerating sustainable material innovation and enhancing material science discovery.
+Aropha is establishing itself as a leader in polymer informatics by advancing methodologies for data integration and curation in polymer research and science. As part of this effort, we have incorporated the [HELM repository](https://github.com/PistoiaHELM/HELMMonomerSets)—a rigorously curated dataset of bio-based monomers—with Aropha’s proprietary library of monomer units commonly employed in both bio-based and synthetic polymer synthesis. This consolidated and standardized resource provides a robust foundation for *in-silico* polymer design to facilitate the systematic exploration and optimization of polymer architectures with respect to biodegradability and other critical performance metrics. Through this initiative, Aropha is aiming to provide a new paradigm in data-driven polymer informatics to accelerate the development of sustainable materials and driving innovation at the intersection of computational chemistry, materials science, and environmental sustainability.
 
-For a curated list of bio-based monomers, please explore the [Monomers](https://aropha.github.io/Bio-based-Monomers/) page.
+For a curated list of bio-based and synthetic monomers, please explore the [Monomers](https://aropha.github.io/Bio-based-Monomers/) page.
 
 ---
 
